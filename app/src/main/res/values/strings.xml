@@ -1,0 +1,44 @@
+<resources>
+<string name="app_name">TrabalhoAndreza</string>
+
+<string-array name="Categorias">
+    <item>Selecione...</item>
+    <item>Hardware</item>
+    <item>Sistema Operacional</item>
+    <item>Sistema de terceiros</item>
+    <item>Celulares</item>
+    <item>Tablets</item>
+</string-array>
+
+    <string name="app_nome">TrabalhoAndreza</string>
+    <string name="txtCliente">Cliente: </string>
+    <string name="txtValor">valor: </string>
+    <string name="txtTipo">tipo: </string>
+    <string name="txtOrçamento">Orçamento: </string>
+    <string name="txtServiço">serviço: </string>
+    <string name="txtCategoria">Categoria: </string>
+    <string name="txtSelecione">Selecione...</string>
+    <string name="txtServiçoFinalizado">Serviço Completo</string>
+    <string name="txtSalvar">SALVAR</string>
+
+    <string name="hintNome">Escreva seu nome: </string>
+    <string name="hintDefeito">Escreva o tipo de defeito: </string>
+    <string name="hintValor">0.00: </string>
+    <string name="Selecione">Selecione...</string>
+    <string name="Salvar">SALVAR</string>
+
+    <string name="txtLimpar">Limpar</string>
+    <string name="txtSair">Sair</string>
+
+    <string-array name="Categoria">
+        <item>Selecione...</item>
+        <item>Hardware</item>
+        <item>Sistema Operacional</item>
+        <item>Sistema Operacional Tercerizado</item>
+        <item>Telefones</item>
+        <item>Tablets</item>
+
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TrabalhoAndreza</string>
+    <string name="txtCliente">Cliente: </string>
+    <string name="txtValor">value: </string>
+    <string name="txtTipo">type: </string>
+    <string name="txtOrçamento">budget: </string>
+    <string name="txtServiço">service: </string>
+    <string name="txtCategoria">Category: </string>
+    <string name="txtSelecione">Select...</string>
+    <string name="txtServiçoFinalizado">Service Completed</string>
+    <string name="txtSalvar">SAVE</string>
+
+    <string name="hintNome">Enter your name here: </string>
+    <string name="hintDefeito">Type the defect here: </string>
+    <string name="hintValor">0.00: </string>
+    <string name="Selecione">Select...</string>
+    <string name="Salvar">SAVE</string>
+
+    <string name="txtLimpar">Clear</string>
+    <string name="txtSair">Exit</string>
+
+    <string-array name="Category">
+        <item>Select...</item>
+        <item>Hardware</item>
+        <item>Operacional System</item>
+        <item>third-party system</item>
+        <item>Celphones</item>
+        <item>Tablets</item>
+
+    </string-array>
+
+
+
+
+
+
+
+</resources>
+
